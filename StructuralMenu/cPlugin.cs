@@ -23,6 +23,7 @@ namespace StructuralMenu
             return 0;
         }
 
+
         public void Main(ref cSapModel SapModel, ref cPluginCallback ISapPlugin)
         {
             Model = SapModel;
