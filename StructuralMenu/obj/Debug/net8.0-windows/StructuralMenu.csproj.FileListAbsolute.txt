@@ -1,0 +1,15 @@
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\bin\Debug\net8.0-windows\StructuralMenu.deps.json
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\bin\Debug\net8.0-windows\StructuralMenu.runtimeconfig.json
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\bin\Debug\net8.0-windows\StructuralMenu.dll
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\bin\Debug\net8.0-windows\StructuralMenu.pdb
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.csproj.AssemblyReference.cache
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.AssemblyInfoInputs.cache
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.AssemblyInfo.cs
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.csproj.CoreCompileInputs.cache
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.dll
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\refint\StructuralMenu.dll
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.pdb
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\StructuralMenu.genruntimeconfig.cache
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\ref\StructuralMenu.dll
+D:\برنامج التصميم\EtabsStracturalMenu\StructuralMenu\obj\Debug\net8.0-windows\Structur.4F4934C8.Up2Date

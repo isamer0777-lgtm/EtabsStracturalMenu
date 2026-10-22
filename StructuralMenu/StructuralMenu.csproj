@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<UseWPF>true</UseWPF>
+		<EnableDynamicLoading>true</EnableDynamicLoading>
+		<Platforms>x64</Platforms>
+		<Platforms>AnyCPU;x64</Platforms>
+		<PlatformTarget>x64</PlatformTarget>
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>disable</ImplicitUsings>
+		<RootNamespace>StructuralMenu</RootNamespace>
+		<AssemblyName>StructuralMenu</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- عدّل المسار لو ETABS متسطب في مكان تاني -->
+		<Reference Include="ETABSv1">
+			<HintPath>C:\Program Files\Computers and Structures\ETABS 22\ETABSv1.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0644\u062A\u0635\u0645\u064A\u0645\\EtabsStracturalMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0999C5E1-C577-11B0-90AB-752EB0DB8507}|StructuralMenu\\StructuralMenu.csproj|d:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0644\u062A\u0635\u0645\u064A\u0645\\etabsstracturalmenu\\structuralmenu\\cplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999C5E1-C577-11B0-90AB-752EB0DB8507}|StructuralMenu\\StructuralMenu.csproj|solutionrelative:structuralmenu\\cplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cPlugin.cs",
+              "DocumentMoniker": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0644\u062A\u0635\u0645\u064A\u0645\\EtabsStracturalMenu\\StructuralMenu\\cPlugin.cs",
+              "RelativeDocumentMoniker": "StructuralMenu\\cPlugin.cs",
+              "ToolTip": "D:\\\u0628\u0631\u0646\u0627\u0645\u062C \u0627\u0644\u062A\u0635\u0645\u064A\u0645\\EtabsStracturalMenu\\StructuralMenu\\cPlugin.cs",
+              "RelativeToolTip": "StructuralMenu\\cPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T09:44:00.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
